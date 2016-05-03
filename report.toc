@@ -1,0 +1,41 @@
+\contentsline {chapter}{\numberline {1}PROBLEM STATEMENT}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}General Aspects}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Economics}{1}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Areas Of Application}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Crop establishment}{2}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Crop scouting}{2}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Selective harvesting}{3}{subsection.1.3.1}
+\contentsline {section}{\numberline {1.4}Target specifications of feasible solution}{3}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Reasons to choose legged configuration}{3}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Legged robots}{4}{subsection.1.4.2}
+\contentsline {chapter}{\numberline {2}CIRCUIT LEVEL DESCRIPTION}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Components list}{7}{section.2.1}
+\contentsline {subsubsection}{Temperature sensor}{9}{figure.caption.14}
+\contentsline {subsubsection}{Humidity sensor}{10}{figure.caption.15}
+\contentsline {subsubsection}{Infrared proximity sensor}{10}{figure.caption.16}
+\contentsline {section}{\numberline {2.2}Circuit Diagram}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}PIC 16f877a and it's interface circuit}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}ZIGBEE module and it's interface circuit}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Power supply-1}{12}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Wireless camera and IR Proximity sensor}{13}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Servo motors}{14}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Power supply 2}{16}{subsection.2.2.6}
+\contentsline {section}{\numberline {2.3}Tools used}{16}{section.2.3}
+\contentsline {chapter}{\numberline {3}PROJECT IMPLEMENTATION}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}System Design}{19}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}System Structure}{19}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Wlaking pattern}{20}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Walking forward}{21}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Moving backward}{22}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Turning left}{23}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Turning right}{24}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Servo control}{24}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Flowcharts}{27}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}GUI creation using Matlab}{30}{section.3.4}
+\contentsline {section}{\numberline {3.5}Weed detection using Matlab}{30}{section.3.5}
+\contentsline {chapter}{\numberline {4}CONCLUSION AND FUTURE SCOPE}{33}{chapter.4}
+\contentsline {chapter}{Appendices}{36}{section*.36}
+\contentsline {chapter}{\numberline {A}16f877a Datasheet}{37}{Appendix.a.A}
+\contentsline {chapter}{\numberline {B}Source Code - PIC 16f877a}{66}{Appendix.a.B}
+\contentsline {chapter}{\numberline {C}Matlab Weed Detection}{88}{Appendix.a.C}
